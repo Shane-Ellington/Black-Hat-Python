@@ -5,3 +5,7 @@
 
 27MAY
 1. Working on making a TCP Proxy server. Working along with the example in the book.
+
+05JUN
+1. Got to spend a bit of time finishing up this proxy. Actually took a good bit of debugging to find some syntax errors I had. Super interesting stuff, as I am also progressing through my Python course through WGU concurrently, things I'm seeing in the code is starting to make more sense. 
+2. Tested out the proxy on my VM and home network, it was pretty interesting to monitor the traffic through the proxy.  
